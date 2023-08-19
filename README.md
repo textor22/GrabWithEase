@@ -1,4 +1,9 @@
 # GrabWithEase
+Perfect for getting Cookies or tokens
+<picture>
+  <source srcset="https://github.com/cofrisdsd/iLoveGrabbers/blob/main/Preview.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/cofrisdsd/iLoveGrabbers/blob/main/Preview.png">
+</picture>
 
 ## Features
 1. **Ping**
