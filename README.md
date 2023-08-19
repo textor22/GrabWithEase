@@ -1,8 +1,8 @@
 # GrabWithEase
 Perfect for getting Cookies or tokens
 <picture>
-  <source srcset="https://github.com/cofrisdsd/iLoveGrabbers/blob/main/Preview.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/cofrisdsd/iLoveGrabbers/blob/main/Preview.png">
+  <source srcset="https://github.com/textor22/GrabWithEase/blob/main/preview.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/textor22/GrabWithEase/blob/main/preview.png">
 </picture>
 
 ## Features
